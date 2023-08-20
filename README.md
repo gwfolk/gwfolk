@@ -2,6 +2,6 @@
 
 👀 Interests: in vivo electrophysiology to study cortical sensory circuits
 
-🌱 Currently learning to analyze spike-LFP phase locking, connectivity, and current source density.
+🌱 Currently learning to analyze spike-LFP phase locking and extrapolate connectivity from unit cross-correlations.
 
 📫 How to reach me: grant_folkert@brown.edu
