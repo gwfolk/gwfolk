@@ -1,4 +1,4 @@
-👋 Hello! I’m @GrantFolkert, formerly an undergraduate (and then postbaccalaureate) at Central Michigan University in the Bioluminescent Optogenetics Lab, now a graduate student at Brown University.
+👋 Hello! I’m @gwfolk, formerly an undergraduate (and then postbaccalaureate) at Central Michigan University in the Bioluminescent Optogenetics Lab, now a graduate student at Brown University studying vision and attention.
 
 👀 Interests: _in vivo_ electrophysiology to study cortical sensory circuits.
 
