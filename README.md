@@ -1,7 +1,6 @@
-👋 Hello! I’m @gwfolk, formerly an undergraduate (and then postbaccalaureate) at Central Michigan University in the Bioluminescent Optogenetics Lab, now a graduate student at Brown University studying vision and attention.
-
-👀 Interests: _in vivo_ electrophysiology to study cortical sensory circuits.
+👋 Hello! I’m @gwfolk, formerly an undergrad (and then postbaccalaureate) at Central Michigan University, now a PhD student at NIH investigating the role of the superior colliculus in vision and attention.
+👀 Interests: extremely varied
 
 🌱 Currently learning to analyze spike-LFP phase locking and extrapolate connectivity from unit cross-correlations.
 
-📫 How to reach me: grant_folkert@brown.edu
+📫 How to reach me: gwen_folkert@brown.edu
