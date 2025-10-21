@@ -2,6 +2,6 @@
 
 👀 Interests: extremely varied
 
-🌱 Currently learning to analyze spike-LFP phase locking and extrapolate connectivity from unit cross-correlations.
+🌱 Currently learning the art of administering a home server, 'homelabbing', etc.
 
-📫 How to reach me: gwen_folkert@brown.edu
+📫 How to reach me: gwen_folkert@brown.edu for academic inquiries, gwf_101@pm.me for everything else.
